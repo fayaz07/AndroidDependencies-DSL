@@ -1,1 +1,1 @@
-# AndroidDependenciesDSL
+# AndroidDependencies-DSL
